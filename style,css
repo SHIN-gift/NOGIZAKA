@@ -1,3 +1,7 @@
+.carousel {
+  height: 603px;
+  }
+
 .slide-height{
   padding-top: 56px;
 }
